@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora de Pitágoras</string>
+    <string name="campo_obrigatorio">Campo Obrigatório</string>
+    <string name="valor_a">Digite o valor de A</string>
+    <string name="valor_b">Digite o valor de B</string>
+    <string name="calcular">Calcular</string>
+    <string name="apagar_item">Deseja apagar item?</string>
+    <string name="apagar">Apagar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
